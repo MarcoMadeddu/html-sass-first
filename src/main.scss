@@ -1,0 +1,15 @@
+$primary : green;
+$secondary: wheat;
+$pad30: 30px;
+
+h2{
+    background-color: $primary;
+}
+
+p{
+    padding-top: $pad30;
+}
+
+h1{
+    background-color: $primary;
+}
